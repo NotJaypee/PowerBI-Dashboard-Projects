@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-  <img src="../Assets/Data Dashboard.gif" alt="Data Jobs Dashboard GIF">
+  ![Data Jobs Dashboard](../Assets/Data%20Dashboard.gif) 
 
 
 ## Introduction
